@@ -23,4 +23,4 @@ A step by step series of examples that tell you how to get a development environ
 Say what the step will be
 
 ```bash
-git clone https://github.com/harish-bhat-m/news_today.git
+git clone https://github.com/harish-bhat-m/news_today.git                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
